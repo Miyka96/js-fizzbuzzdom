@@ -1,0 +1,14 @@
+.container{
+    
+}
+#list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 20px;
+}
+.square-wrapper{
+    background-color: aquamarine;
+    padding: 20px;
+    color: black;
+}
